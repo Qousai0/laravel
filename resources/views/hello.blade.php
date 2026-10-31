@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>farah saryrah </h1>
     <h1>hello   {{ $name }}</h1>
     @foreach ($stud as $student)
         <p>{{ $student }}</p>
